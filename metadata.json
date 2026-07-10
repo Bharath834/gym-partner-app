@@ -1,0 +1,6 @@
+{
+  "name": "Gym Partner Match",
+  "description": "Connect with solo gym-goers to find consistent workout partners and accountability buddies near you with double-opt-in matching, verified badges, and smart privacy controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

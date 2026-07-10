@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central Connection Heart Outline representing Match/Partnership -->
+    <path
+        android:pathData="M54,42 C54,42 49.5,35.5 43,35.5 C36.5,35.5 32,40 32,46.5 C32,55.5 54,68.5 54,68.5 C54,68.5 76,55.5 76,46.5 C76,40 71.5,35.5 65,35.5 C58.5,35.5 54,42 54,42 Z"
+        android:fillColor="#33FF6F00"/>
+    <path
+        android:pathData="M54,42 C54,42 49.5,35.5 43,35.5 C36.5,35.5 32,40 32,46.5 C32,55.5 54,68.5 54,68.5 C54,68.5 76,55.5 76,46.5 C76,40 71.5,35.5 65,35.5 C58.5,35.5 54,42 54,42 Z"
+        android:strokeColor="#FF6F00"
+        android:strokeWidth="3.5"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"/>
+
+    <!-- Dumbbell Bar crossing horizontally -->
+    <path
+        android:pathData="M24,54 L84,54"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"/>
+    
+    <!-- Left Weight Plates -->
+    <path
+        android:pathData="M24,38 L24,70"
+        android:strokeColor="#FF6F00"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"/>
+    <path
+        android:pathData="M14,44 L14,64"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"/>
+
+    <!-- Right Weight Plates -->
+    <path
+        android:pathData="M84,38 L84,70"
+        android:strokeColor="#FF6F00"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"/>
+    <path
+        android:pathData="M94,44 L94,64"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"/>
+        
+</vector>
